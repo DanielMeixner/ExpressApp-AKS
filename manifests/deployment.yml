@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
         - name: cncfdemo 
-          image: builddemo.azurecr.io/cncfdemo 
+          image: dmxregistry.azurecr.io/danielmeixnerexpressappaks 
           ports:
           - containerPort: 3000
